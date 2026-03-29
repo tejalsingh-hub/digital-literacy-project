@@ -38,10 +38,10 @@ All tasks are organized into separate folders. Each folder contains the relevant
 - task-5-cybercrime/ → Case study & prevention checklist  
 
 ## Links
-Google form quiz: https://docs.google.com/forms/d/1-SoQh8J-sQItrL3tMgmIYrozIeemKoYEMrLa_9TUeRQ/preview
-GitHub Profile: https://github.com/tejalsingh-hub 
-LinkedIn Profile: https://www.linkedin.com/in/tejal-singh-7103aa370/
-Kaggle Profile: https://www.kaggle.com/tejalsinghhhh
+- Google form quiz: https://docs.google.com/forms/d/1-SoQh8J-sQItrL3tMgmIYrozIeemKoYEMrLa_9TUeRQ/preview
+- GitHub Profile: https://github.com/tejalsingh-hub 
+- LinkedIn Profile: https://www.linkedin.com/in/tejal-singh-7103aa370/
+- Kaggle Profile: https://www.kaggle.com/tejalsinghhhh
 
 ## Conclusion
 This project helped me understand the importance of digital literacy and improved my ability to use digital tools effectively and responsibly.
